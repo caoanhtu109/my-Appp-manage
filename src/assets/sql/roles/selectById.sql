@@ -1,0 +1,1 @@
+SELECT * FROM public.roles WHERE id = $1;

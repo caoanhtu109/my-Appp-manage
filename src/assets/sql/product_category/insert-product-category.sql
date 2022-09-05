@@ -1,0 +1,1 @@
+insert into product_category(product_id, category_id) values($1,$2)

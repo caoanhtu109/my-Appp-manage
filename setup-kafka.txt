@@ -1,0 +1,8 @@
+$ npm i --save kafkajs
+
+-- Documents --
+
+https://en.wikipedia.org/wiki/Message_broker
+https://docs.nestjs.com/microservices/kafka#installation
+https://www.google.com/search?q=set+up+kafka+in+nestjs&oq=set+up+ka&aqs=chrome.0.69i59j0i512j69i57j0i512l7.1585j0j9&sourceid=chrome&ie=UTF-8#kpvalbx=_s8PQYoayA5WRseMP9ZWOwAI16
+https://itnavi.com.vn/blog/kafka-la-gi/?amp

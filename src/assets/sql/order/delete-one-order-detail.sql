@@ -1,0 +1,1 @@
+DELETE FROM order_detail WHERE order_id = $1 and product_id = $2;

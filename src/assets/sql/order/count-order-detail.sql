@@ -1,0 +1,1 @@
+select count(order_id) from order_detail where order_id = $1;
